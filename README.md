@@ -1,0 +1,100 @@
+# 🚧 Smart Road Monitoring System
+
+A full-stack web application to detect and report road issues like potholes, accidents, and construction zones using image uploads and map-based visualization.
+
+---
+
+## 🌟 Features
+
+* 📍 Click on map to report issues
+* 📸 Upload images with preview
+* 🤖 AI-based pothole detection (simulated)
+* 🔥 Heatmap visualization of problem areas
+* 📊 Dashboard with analytics
+* 📋 Filterable report list
+* 🗺️ Multiple map views
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* React Leaflet (Maps)
+* Axios
+
+### Backend
+
+* Node.js
+* Express.js
+* Multer (file upload)
+
+---
+
+## 📂 Project Structure
+
+```
+smart-road-monitoring/
+│── client/        # React frontend
+│── server/        # Node backend
+│── uploads/       # Uploaded images (ignored)
+```
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the repo
+
+```
+git clone https://github.com/aarushi481/smart-road-monitoring.git
+cd smart-road-monitoring
+```
+
+### 2. Install dependencies
+
+```
+npm install
+```
+
+### 3. Run backend
+
+```
+node server.js
+```
+
+### 4. Run frontend
+
+```
+npm start
+```
+
+---
+
+## 🌍 Deployment
+
+* Frontend: Vercel
+* Backend: Render
+
+---
+
+## 📸 Screenshots
+
+(Add screenshots here)
+
+---
+
+## 🚀 Future Improvements
+
+* Real AI model (YOLO)
+* MongoDB database
+* Authentication system
+* Real-time updates (Socket.io)
+* Mobile app integration
+
+---
+
+## 👩‍💻 Author
+
+Aarushi Goyal
