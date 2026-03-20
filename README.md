@@ -77,11 +77,15 @@ npm start
 * Frontend: Vercel
 * Backend: Render
 
----
+
+
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+---<img width="1440" height="900" alt="Screenshot 2026-03-20 at 1 57 52 PM" src="https://github.com/user-attachments/assets/6b57c150-e5a6-41ee-905d-2614acf1ba3b" />
+
+<img width="1440" height="777" alt="Screenshot 2026-03-20 at 1 59 38 PM" src="https://github.com/user-attachments/assets/dbe59fef-760c-4382-8bb0-c2bf5f1efecf" />
+
 
 ---
 
